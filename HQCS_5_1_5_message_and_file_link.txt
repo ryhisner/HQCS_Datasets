@@ -1,3 +1,0 @@
-The text files containing all EPI_ISL numbers are too large for Github. 
-
-The 5_1_5 HQCS dataset, which is the default used in all the main analyses (not the sensitivity tests) can be found here: https://drive.proton.me/urls/PSD16ZWRAC#pKC7ZPjwfVfu
